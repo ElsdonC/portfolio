@@ -1542,6 +1542,9 @@ input, select, textarea {
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 3rem;
 						}
+			br {
+				display: block !important;
+			}
 
 		}
 
